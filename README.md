@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Manu, a estagiária que manja de IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação da nova estagiária da CAIXA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Vidnoz para a criação do avatar e da fala
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Com base no avatar do estagiário da Caixa, criei a representação feminina integrada à transformação digital
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresentação da nova estagiária que tem como objetivo representar as mulheres da empresa que se interessam por IA
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Assista aqui https://share.vidnoz.com/aivideo?id=aishare-xRUQHtM9CAlLwwET2eLIHQNb173802210113840600
+
 ```
 
 ### Exemplos e Insigths
